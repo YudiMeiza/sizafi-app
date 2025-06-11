@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664685116918",
+    "project_id": "sizafi-app",
+    "storage_bucket": "sizafi-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664685116918:android:169dcda28eb9bb7f5c9bd7",
+        "android_client_info": {
+          "package_name": "com.project3.sizafi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyqsXdfWbN0Q66WWuzkZ5tlxM8-bjNGdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
